@@ -1,0 +1,15 @@
+{
+  "name": "personal-marketplace",
+  "owner": {
+    "name": "Arwin Wagenmakers",
+    "email": "github.little962@passmail.net"
+  },
+  "plugins": [
+    {
+      "name": "personal-skills",
+      "source": "./plugins/personal-skills",
+      "description": "Arwin's personal Claude Code skills",
+      "version": "1.0.0"
+    }
+  ]
+}
